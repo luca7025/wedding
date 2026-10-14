@@ -1,0 +1,60 @@
+{
+  "names": [
+    "Jithu",
+    "[Partner's name]"
+  ],
+  "dateText": "31 May 2026",
+  "venue": "[Venue name, city]",
+  "hero": "hero.jpg",
+  "story": [
+    {
+      "date": "[Month Year]",
+      "title": "How we met",
+      "text": "[One or two lines about how you met]",
+      "photo": "story_01.jpg"
+    },
+    {
+      "date": "[Month Year]",
+      "title": "Save the date",
+      "text": "[One or two lines about the proposal or engagement]",
+      "photo": "story_02.jpg"
+    },
+    {
+      "date": "31 May 2026",
+      "title": "Forever begins",
+      "text": "[A line about the wedding day]",
+      "photo": "story_03.jpg"
+    }
+  ],
+  "events": [
+    {
+      "name": "Save the Date",
+      "date": "[Date]",
+      "text": "[Short description]",
+      "prefix": "savethedate_"
+    },
+    {
+      "name": "Wedding Eve",
+      "date": "[Date]",
+      "text": "[Short description]",
+      "prefix": "eve_"
+    },
+    {
+      "name": "Wedding Day",
+      "date": "31 May 2026",
+      "text": "[Short description]",
+      "prefix": "wedding_"
+    },
+    {
+      "name": "Reception",
+      "date": "[Date]",
+      "text": "[Short description]",
+      "prefix": "reception_"
+    }
+  ],
+  "youtube": "",
+  "albumUrl": "https://drive.google.com/drive/folders/18oZc2NboY5HE9oeuWllQzJhdncfBeoNT?usp=drive_link",
+  "music": "",
+  "thankYou": "To our families and every guest who travelled, blessed, danced and laughed with us: thank you.\nYou turned our wedding into the most beautiful memory of our lives, and we will carry your love with us always.",
+  "thankYouPhoto": "wedding_01.jpg"
+}
